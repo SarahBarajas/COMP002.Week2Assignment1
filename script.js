@@ -10,3 +10,6 @@ console.log("Hello" + " " + "World!");
 // *Note: You should only have one console.log() statement - how do you add a new line in
 // a string?...
 console.log("Hello\nWorld!");
+// 5. Write code to output the result of the comparison:
+// 5 is less than 10.
+console.log(5 < 10); //
